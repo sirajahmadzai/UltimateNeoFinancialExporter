@@ -18,7 +18,7 @@ Tampermonkey is required to run this script. Install it using the appropriate li
 ### **2. Install the Script**
 
 1. Click this link to install the script:
-   👉 [NeoTransactionExporter.user.js](https://raw.githubusercontent.com/sirajahmadzai/NeoTransactionExporter/main/NeoTransactionExporter.user.js)
+   👉 [NeoTransactionExporter.user.js](https://raw.githubusercontent.com/sirajahmadzai/UltimateNeoFinancialExporter/main/UltimateNeoFinancialExporter.user.js)
 2. Tampermonkey will open and prompt you to **install the script**.
 3. Click **"Install"**.
 4. Ensure the script is **enabled** in Tampermonkey.
